@@ -1,0 +1,3 @@
+"Duplicate Row #%s (Country ""%s"", Region/State ""%s"", Zip ""%s"" and Value ""%s"").","Zeile Nr. %s kopieren (Land ""%s"", Kanton ""%s"", PLZ ""%s"" und Wert ""%s"")."
+"Invalid Region/State ""%s"" in the Row #%s.","Ungültiges Kanton ""%s"" in Zeile %s."
+"Region/State","Region/Kanton"
